@@ -53,7 +53,7 @@ optional arguments:
 Receiver
 ----------
 
-Listens on localhost:7477, writes files to /var/tmp/logship/
+Listens on localhost:7447, writes files to /var/tmp/logship/
 
 ```shell
 $ python logship.py rx
