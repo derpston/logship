@@ -56,7 +56,7 @@ Receiver
 Listens on localhost:7477, writes files to /var/tmp/logship/
 
 ```shell
-python logship.py rx
+$ python logship.py rx
 ```
 
 Transmitter
